@@ -24,6 +24,7 @@ This project serves as a hands-on practice exercise for developing decentralized
 - Funding: Users can send Ether to the contract to fund it.
 - Withdrawal: The contract owner can withdraw funds securely.
 - Ownership Management: Only the contract owner can withdraw funds.
+- Comprehensive Testing: Includes multiple tests to validate the contract's functionality and correctness.
 - Gas Optimization: Implemented best practices for efficient gas usage.
 
 
