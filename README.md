@@ -21,10 +21,10 @@ Test contracts effectively using Foundry.
 This project serves as a hands-on practice exercise for developing decentralized applications and understanding core blockchain concepts.
 
 ## Features
-Funding: Users can send Ether to the contract to fund it.
-Withdrawal: The contract owner can withdraw funds securely.
-Ownership Management: Only the contract owner can withdraw funds.
-Gas Optimization: Implemented best practices for efficient gas usage.
+- Funding: Users can send Ether to the contract to fund it.
+- Withdrawal: The contract owner can withdraw funds securely.
+- Ownership Management: Only the contract owner can withdraw funds.
+- Gas Optimization: Implemented best practices for efficient gas usage.
 
 
 ## Prerequisites
