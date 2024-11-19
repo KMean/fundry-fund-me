@@ -10,7 +10,6 @@ This repository contains the implementation of the Foundry Fund Me project, base
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Project Structure](#project-structure)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -90,6 +89,6 @@ Tests include:
 - Verifying accurate balances.
 
 # Acknowledgments
-- Special Thanks to [Cyfrin](https://updraft.cyfrin.io/) for creating the Foundry Fund Me course and to [Patrick Collins](https://github.com/patrickalphac) for consistently delivering top-notch Web3 educational content. Your work inspires developers to excel in blockchain development.
+- Special Thanks to [Cyfrin](https://updraft.cyfrin.io/) for creating some of the best courses on smart contracts development and to [Patrick Collins](https://github.com/patrickalphac) for consistently delivering top-notch Web3 educational content. Your work inspires developers to excel in blockchain development.
 - [Foundry](https://github.com/foundry-rs) for providing a robust blazing fast Ethereum development framework.
 - The [Ethereum](https://ethereum.org/) and [Solidity](https://soliditylang.org/) communities for excellent resources and support.
