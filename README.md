@@ -1,7 +1,7 @@
 
 # Foundry Fund Me Project
 
-This repository contains my implementation of the Foundry Fund Me project, based on the course by [Cyfrin Updraft](https://updraft.cyfrin.io/). The project is a decentralized application (dApp) built using Foundry, which allows users to fund a smart contract and withdraw funds. It showcases fundamental concepts of Solidity, Ethereum development, and Foundry.
+This repository contains the implementation of the Foundry Fund Me project, based on the course by [Cyfrin Updraft](https://updraft.cyfrin.io/). The project is a decentralized application (dApp) built using Foundry, which allows users to fund a smart contract and withdraw funds. It showcases fundamental concepts of Solidity, Ethereum development, and Foundry.
 
 ## Table of Contents
 - [Overview](#overview)
