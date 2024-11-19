@@ -38,7 +38,7 @@ Before running this project, ensure you have the following installed:
 # Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/fund-me-foundry.git
+git clone https://github.com/KMean/fundry-fund-me.git
 cd fund-me-foundry
 ```
 2. Install dependencies:
